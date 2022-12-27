@@ -15,14 +15,15 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [HTML](#html)
   - [CSS](#css)
 - [Javascript](#javascript)
-- [Core](#career-path)
+- [React](#career-path)
   - [Basics](#basics)
     - [Function Components](#function-components)
     - [Class Components](#class-components)
   - [Layout](#layout)
+  - [Hooks](#hooks)
+    - [Custom Hooks](#custom-hooks)
   - [Advenced](#advanced)
     - [Portals](#portals)
-    - [Hooks](#hooks)
     - [Error Boundaries](#error-boundaries)
     - [Contexts](#contexts)
   - [Router](#router)
@@ -79,10 +80,15 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
 
+## React
+- ### Hooks
+  - #### Custom Hooks
+    - [React Hook Best Practices](https://djaytechdiary.com/react-hooks-best-practices-2023)
+
 ## Architecture
 - ### Clean Architecture
   - [Bullet Proof React](https://github.com/alan2207/bulletproof-react)
   
 ## Mircofrontends
 - ### Mircofrontends Basics
-  - [Introduction](https://djaytechdiary.com/introduction-to-microfrontends)
+  - [Introduction](https://djaytechdiary.com/**introduction**-to-microfrontends)

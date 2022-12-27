@@ -50,6 +50,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Vite](#vite)
 - [Task Runners](#task-runners)
   - [Grunt.JS](#grunt-js)
+- [Microfrontends](#microfrontends)
+  - [Basics](#mircofrontends-basics)
 - [Projects](#projects)
 - [Where to Go Next?](#where-to-go-next)
 
@@ -76,3 +78,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
+
+## Mircofrontends
+- ### Mircofrontends Basics
+  - [Introduction](https://djaytechdiary.com/introduction-to-microfrontends)

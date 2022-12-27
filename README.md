@@ -79,6 +79,10 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - **Cheat Sheet**
     - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
 
+## Architecture
+- ### Clean Architecture
+  - [Bullet Proof React](https://github.com/alan2207/bulletproof-react)
+  
 ## Mircofrontends
 - ### Mircofrontends Basics
   - [Introduction](https://djaytechdiary.com/introduction-to-microfrontends)

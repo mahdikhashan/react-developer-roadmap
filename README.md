@@ -29,6 +29,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Router](#router)
   - [Internationalization](#internationalization)
 - [Clean Code](#clean-code)
+  - [Javascript](#javascript)
   - [Solid](#solid)
   - [Design Patterns](#design-patterns)
 - [Folder Structure](#folder-structure) 
@@ -84,7 +85,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - ### Hooks
   - #### Custom Hooks
     - [React Hook Best Practices](https://djaytechdiary.com/react-hooks-best-practices-2023)
-
+## Clean Code
+  - ### Javascript 
+    - [Freecodecamp Video Series](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)
 ## Architecture
 - ### Clean Architecture
   - [Bullet Proof React](https://github.com/alan2207/bulletproof-react)

@@ -14,7 +14,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Git](#git)
   - [HTML](#html)
   - [CSS](#css)
-  - [Browser]
+  - [Browser](#browser)
 - [Javascript](#javascript)
 - [React](#career-path)
   - [Basics](#basics)

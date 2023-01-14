@@ -56,6 +56,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - [Microfrontends](#microfrontends)
   - [Basics](#mircofrontends-basics)
 - [Projects](#projects)
+  - [Blog](#blog)
 - [Where to Go Next?](#where-to-go-next)
 
 ## Prerequisites
@@ -101,5 +102,5 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Introduction](https://djaytechdiary.com/**introduction**-to-microfrontends)
 
 ## Projects
-- ### [Blog]
+- ### Blog
   - [Brophy.org](https://github.com/brophdawg11/brophy.org)

@@ -47,6 +47,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [UI Test](#visual-test)
 - [Typescript](#typescript)
   - [Basics](#typescript-basics)
+- [Server-Side Rendering](#server-side-rendering)
+  - [Next.js](#next-js)
 - [Bundlers](#bundlers)
   - [Webpack](#webpack)
     - [Module Federation](#module-federation)
@@ -96,6 +98,10 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Architecture
 - ### Clean Architecture
   - [Bullet Proof React](https://github.com/alan2207/bulletproof-react)
+
+## Server-Side Rendering
+  - ### Next.JS
+    - [React 2025](https://docs.react2025.com/introduction/product-overview)
   
 ## Mircofrontends
 - ### Mircofrontends Basics

@@ -51,6 +51,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Next.js](#next-js)
 - [Bundlers](#bundlers)
   - [Webpack](#webpack)
+    - [Webpack-React](#webpack-react)
     - [Module Federation](#module-federation)
   - [Vite](#vite)
 - [Task Runners](#task-runners)
@@ -102,6 +103,11 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Server-Side Rendering
   - ### Next.JS
     - [React 2025](https://docs.react2025.com/introduction/product-overview)
+
+## Bundlers
+  - ### Webpack
+    - [Webpack and React - 1](https://www.toptal.com/react/webpack-react-tutorial-pt-1)
+    - [Webpack and React - 2](https://www.toptal.com/react/webpack-config-tutorial-pt-2)
   
 ## Mircofrontends
 - ### Mircofrontends Basics

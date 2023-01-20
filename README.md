@@ -108,6 +108,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - ### Webpack
     - [Webpack and React - 1](https://www.toptal.com/react/webpack-react-tutorial-pt-1)
     - [Webpack and React - 2](https://www.toptal.com/react/webpack-config-tutorial-pt-2)
+    - [Creating a React app with Webpack](https://jsramblings.com/creating-a-react-app-with-webpack/)
   
 ## Mircofrontends
 - ### Mircofrontends Basics

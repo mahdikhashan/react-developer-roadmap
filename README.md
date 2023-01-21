@@ -100,6 +100,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - ### Clean Architecture
   - [Bullet Proof React](https://github.com/alan2207/bulletproof-react)
 
+## Typescript
+  - [Learn Typescript](https://learntypescript.dev/)
+
 ## Server-Side Rendering
   - ### Next.JS
     - [React 2025](https://docs.react2025.com/introduction/product-overview)

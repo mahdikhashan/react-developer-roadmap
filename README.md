@@ -90,6 +90,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [How Browsers Work?](https://web.dev/howbrowserswork/)
 ## Javascript
   - [Advanced Javascript Concepts](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
+  - [Asynchronous Javascript](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
 
 ## React
 - ### Hooks
@@ -104,6 +105,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
 ## Typescript
   - [Learn Typescript](https://learntypescript.dev/)
+  - [Setup webpack for any Typescript project](https://gist.github.com/rupeshtiwari/e7235addd5f52dc3e449672c4d8b88d5)
 
 ## Server-Side Rendering
   - ### Next.JS
@@ -115,6 +117,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [Webpack and React - 1](https://www.toptal.com/react/webpack-react-tutorial-pt-1)
     - [Webpack and React - 2](https://www.toptal.com/react/webpack-config-tutorial-pt-2)
     - [Creating a React app with Webpack](https://jsramblings.com/creating-a-react-app-with-webpack/)
+    - [Using Webpack Typescript](https://blog.logrocket.com/using-webpack-typescript/)
+    - 
   
 ## Mircofrontends
 - ### Mircofrontends Basics
@@ -123,3 +127,6 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Projects
 - ### Blog
   - [Brophy.org](https://github.com/brophdawg11/brophy.org)
+
+## Whom I follow as a developer
+  - [cmdcolin](https://cmdcolin.github.io/archive)

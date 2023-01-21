@@ -88,6 +88,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
   - ### Browser
     - [How Browsers Work?](https://web.dev/howbrowserswork/)
+## Javascript
+  - [Advanced Javascript Concepts](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6N3bG4YZhkrCL3ZmDcLTuGd)
 
 ## React
 - ### Hooks

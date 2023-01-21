@@ -103,6 +103,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Server-Side Rendering
   - ### Next.JS
     - [React 2025](https://docs.react2025.com/introduction/product-overview)
+    - [Scafold Next.JS](https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7#creating-a-component-template)
 
 ## Bundlers
   - ### Webpack

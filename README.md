@@ -83,6 +83,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - **Repo**
       - ✅ [Coding University](https://github.com/jwasham/coding-interview-university)
       - [CS Video Course](https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms)
+      - [Computer Science](https://github.com/ossu/computer-science)
 
     - **Cheat Sheet**
       - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)

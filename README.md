@@ -108,6 +108,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Test
 - ### Unit Test
   - [React Testing Techniques](https://github.com/nareshbhatia/react-testing-techniques)
+  - [Google testing blog](https://testing.googleblog.com/)
 
 ## Typescript
   - [Learn Typescript](https://learntypescript.dev/)

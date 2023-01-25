@@ -110,6 +110,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [React Testing Techniques](https://github.com/nareshbhatia/react-testing-techniques)
   - [Google testing blog](https://testing.googleblog.com/)
 
+  - **Video Course**
+    - ✅ [Testing Javascript](https://testingjavascript.com/)
+
 ## Typescript
   - [Learn Typescript](https://learntypescript.dev/)
   - [Setup webpack for any Typescript project](https://gist.github.com/rupeshtiwari/e7235addd5f52dc3e449672c4d8b88d5)

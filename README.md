@@ -124,7 +124,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [Webpack and React - 2](https://www.toptal.com/react/webpack-config-tutorial-pt-2)
     - [Creating a React app with Webpack](https://jsramblings.com/creating-a-react-app-with-webpack/)
     - [Using Webpack Typescript](https://blog.logrocket.com/using-webpack-typescript/)
-    - 
+    - [Module Federations](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
   
 ## Mircofrontends
 - ### Mircofrontends Basics

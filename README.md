@@ -54,6 +54,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [Webpack-React](#webpack-react)
     - [Module Federation](#module-federation)
   - [Vite](#vite)
+  - [Babel](#babel)
 - [Task Runners](#task-runners)
   - [Grunt.JS](#grunt-js)
 - [Microfrontends](#microfrontends)
@@ -132,6 +133,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [Creating a React app with Webpack](https://jsramblings.com/creating-a-react-app-with-webpack/)
     - [Using Webpack Typescript](https://blog.logrocket.com/using-webpack-typescript/)
     - [Module Federations](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
+  - ### Babel
+    - [Babel Preset Env](https://blog.jakoblind.no/babel-preset-env/)
   
 ## Mircofrontends
 - ### Mircofrontends Basics

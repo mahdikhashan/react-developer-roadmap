@@ -134,6 +134,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [Using Webpack Typescript](https://blog.logrocket.com/using-webpack-typescript/)
     - [Module Federations](https://levelup.gitconnected.com/micro-frontend-architecture-replacing-a-monolith-from-the-inside-out-61f60d2e14c1)
     - [From apprentice to master](https://survivejs.com/webpack/)
+    - [Awesome-Webpack](https://webpack.js.org/awesome-webpack/)
   - ### Babel
     - [Babel Preset Env](https://blog.jakoblind.no/babel-preset-env/)
   

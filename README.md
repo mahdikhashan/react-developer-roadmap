@@ -143,8 +143,11 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Introduction](https://djaytechdiary.com/**introduction**-to-microfrontends)
 
 ## Projects
-- ### Blog
+- **Blog**
   - [Brophy.org](https://github.com/brophdawg11/brophy.org)
+  - [Accelerated News](https://github.com/PublicisSapient/accelerated-news)
+- **E-Commerce**
+  - [React Testing Techniques](https://github.com/nareshbhatia/react-testing-techniques)
 
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)

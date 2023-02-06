@@ -129,6 +129,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
   - **Video Course**
     - ✅ [Testing Javascript](https://testingjavascript.com/)
+    - [Confidently Testing Redux Application with Jest and Typescript](https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b)
 
   - **React Testing Library**
     - [Robin Wieruch Tutorial](https://www.robinwieruch.de/react-testing-library/)

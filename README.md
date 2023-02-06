@@ -167,3 +167,4 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)
+  - [Adam Ruka](https://www.endoflineblog.com/)

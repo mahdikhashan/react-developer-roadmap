@@ -61,6 +61,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Grunt.JS](#grunt-js)
 - [Microfrontends](#microfrontends)
   - [Basics](#mircofrontends-basics)
+- [Code Review](#code-review)
 - [Projects](#projects)
   - [Blog](#blog)
 - [Where to Go Next?](#where-to-go-next)
@@ -151,6 +152,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Mircofrontends
 - ### Mircofrontends Basics
   - [Introduction](https://djaytechdiary.com/**introduction**-to-microfrontends)
+
+## Code Review
+  - [Code Review Love](https://mtlynch.io/code-review-love/)
 
 ## Projects
 - **Blog**

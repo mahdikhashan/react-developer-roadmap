@@ -91,6 +91,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
     - **Cheat Sheet**
       - [Data Structures Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/Python-Data-structures-cheat-sheet.pdf)
+  - ### Git
+    - [OneFlow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
   - ### CSS
     - **Tailwind**
       - [Tailwind Best Practices](https://www.youtube.com/watch?v=J_7_mnFSLDg)

@@ -130,6 +130,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - **Video Course**
     - ✅ [Testing Javascript](https://testingjavascript.com/)
 
+  - **React Testing Library**
+    - [Robin Wieruch Tutorial](https://www.robinwieruch.de/react-testing-library/)
+
 ## Typescript
   - [Learn Typescript](https://learntypescript.dev/)
   - [Setup webpack for any Typescript project](https://gist.github.com/rupeshtiwari/e7235addd5f52dc3e449672c4d8b88d5)

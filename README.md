@@ -115,6 +115,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - **Redux**
     - [Redux Toolkit Usage](https://redux-toolkit.js.org/usage/usage-guide#managing-normalized-data)
     - ✅ [Redux Toolkit Crash Course](https://www.youtube.com/watch?v=bbkBuqC1rU4)
+- ### Advanced
+  - **Error Boundaries**
+    - [Use react-error-boundary to handle errors in React](https://kentcdodds.com/blog/use-react-error-boundary-to-handle-errors-in-react)
 ## Clean Code
   - ### Javascript 
     - [Freecodecamp Video Series](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkK24EaPurzMq0-kw5U9pJh)

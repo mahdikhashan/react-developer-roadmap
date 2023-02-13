@@ -124,6 +124,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Architecture
 - ### Clean Architecture
   - [Bullet Proof React](https://github.com/alan2207/bulletproof-react)
+  - [Clean Architecture: Applying with React](https://dev.to/rubemfsv/clean-architecture-applying-with-react-40h6)
+  - [Clean Architecture With React](https://betterprogramming.pub/clean-architecture-with-react-cc097a08b105)
 
 ## Design System
   - ### Story Book

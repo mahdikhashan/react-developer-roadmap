@@ -65,6 +65,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - [Code Review](#code-review)
 - [Projects](#projects)
   - [Blog](#blog)
+- [Packages](#packages)
+  - [Formik](#formik)
 - [Where to Go Next?](#where-to-go-next)
 
 ## Prerequisites
@@ -177,6 +179,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Accelerated News](https://github.com/PublicisSapient/accelerated-news)
 - **E-Commerce**
   - [React Testing Techniques](https://github.com/nareshbhatia/react-testing-techniques)
+
+## Packages
+  - [Formik](https://hackmd.io/@wolfzxcv/S1IUYzrBK)
 
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)

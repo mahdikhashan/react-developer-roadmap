@@ -182,6 +182,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
 ## Packages
   - [Formik](https://hackmd.io/@wolfzxcv/S1IUYzrBK)
+  - [http-proxy-middleware](https://npmmirror.com/package/http-proxy-middleware/v/1.2.0-beta.1)
 
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)

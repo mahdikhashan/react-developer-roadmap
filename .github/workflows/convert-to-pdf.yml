@@ -18,7 +18,7 @@ jobs:
           table_of_contents: false
       - uses: actions/upload-artifact@v3
         with:
-          name: python-engineer-roadmap
+          name: react-developer-roadmap
           path: README.pdf
       - name: Commit files
         run: |

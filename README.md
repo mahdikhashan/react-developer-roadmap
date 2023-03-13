@@ -65,6 +65,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - [Code Review](#code-review)
 - [Projects](#projects)
   - [Blog](#blog)
+- [NPM](#npm)
 - [Packages](#packages)
   - [Formik](#formik)
 - [Where to Go Next?](#where-to-go-next)
@@ -180,6 +181,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - **E-Commerce**
   - [React Testing Techniques](https://github.com/nareshbhatia/react-testing-techniques)
 
+## NPM
+- **Semantic Release**
+  - [Semantic Versioning with Conventional Commits](https://engineering.deloitte.com.au/articles/semantic-versioning-with-conventional-commits)
 ## Packages
   - [Formik](https://hackmd.io/@wolfzxcv/S1IUYzrBK)
   - [http-proxy-middleware](https://npmmirror.com/package/http-proxy-middleware/v/1.2.0-beta.1)

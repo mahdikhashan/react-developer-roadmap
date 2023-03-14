@@ -191,11 +191,11 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [http-proxy-middleware](https://npmmirror.com/package/http-proxy-middleware/v/1.2.0-beta.1)
 
 ## Courses
-  - ** React **
+  - **React**
     - [Epic React By Kent C.Dodds](https://epicreact.dev/)
-  - ** Test **
+  - **Test**
     - [Testing Javascript By Kent C.Dodds](https://testingjavascript.com/)
-  - ** Typescript **
+  - **Typescript**
     - [Typescriptcourse by Joe](https://www.typescriptcourse.com/tutorials)
 
 ## Whom I follow as a developer

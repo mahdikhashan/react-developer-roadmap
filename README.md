@@ -195,6 +195,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
     - [Epic React By Kent C.Dodds](https://epicreact.dev/)
   - ** Test **
     - [Testing Javascript By Kent C.Dodds](https://testingjavascript.com/)
+  - ** Typescript **
+    - [Typescriptcourse by Joe](https://www.typescriptcourse.com/tutorials)
 
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)

@@ -68,6 +68,8 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 - [NPM](#npm)
 - [Packages](#packages)
   - [Formik](#formik)
+- [Courses](#courses)
+  - [React](#course-react)
 - [Where to Go Next?](#where-to-go-next)
 
 ## Prerequisites
@@ -187,6 +189,12 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 ## Packages
   - [Formik](https://hackmd.io/@wolfzxcv/S1IUYzrBK)
   - [http-proxy-middleware](https://npmmirror.com/package/http-proxy-middleware/v/1.2.0-beta.1)
+
+## Courses
+  - ** React **
+    - [Epic React By Kent C.Dodds](https://epicreact.dev/)
+  - ** Test **
+    - [Testing Javascript By Kent C.Dodds](https://testingjavascript.com/)
 
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)

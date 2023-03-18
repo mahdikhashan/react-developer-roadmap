@@ -198,6 +198,10 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - **Typescript**
     - [Typescriptcourse by Joe](https://www.typescriptcourse.com/tutorials)
 
+## Style-Guides
+  - [React Styleguidist](https://github.com/styleguidist/react-styleguidist)
+  - [React Philosophies](https://github.com/mithi/react-philosophies)
+
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)
   - [Adam Ruka](https://www.endoflineblog.com/)

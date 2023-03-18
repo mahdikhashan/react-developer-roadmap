@@ -207,3 +207,4 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Adam Ruka](https://www.endoflineblog.com/)
   - [Christoph Nakazawa](https://cpojer.net/)
   - [Artem Sapegin](https://sapegin.me/)
+  - [Martin Fowler](https://martinfowler.com)

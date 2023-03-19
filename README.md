@@ -202,6 +202,11 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [React Styleguidist](https://github.com/styleguidist/react-styleguidist)
   - [React Philosophies](https://github.com/mithi/react-philosophies)
 
+## Code Smells
+  - [Code Smells Catalog](https://luzkan.github.io/smells/)
+  - [Washing Code](https://github.com/sapegin/washingcode-book)
+  - [Refactoring Guru](https://refactoring.guru/smells)
+
 ## Whom I follow as a developer
   - [cmdcolin](https://cmdcolin.github.io/archive)
   - [Adam Ruka](https://www.endoflineblog.com/)

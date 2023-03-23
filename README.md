@@ -213,3 +213,4 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Christoph Nakazawa](https://cpojer.net/)
   - [Artem Sapegin](https://sapegin.me/)
   - [Martin Fowler](https://martinfowler.com)
+  - [Flavio Copes](https://flaviocopes.com/)

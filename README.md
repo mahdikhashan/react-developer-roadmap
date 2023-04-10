@@ -48,6 +48,7 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [End To End Test](#end-to-end-test)
   - [Component Test](#component-test)
   - [UI Test](#visual-test)
+  - [Acceptance Testing](#atdd)
 - [Typescript](#typescript)
   - [Basics](#typescript-basics)
 - [Server-Side Rendering](#server-side-rendering)
@@ -147,6 +148,9 @@ Before you head over, read the Contribution Guide first. You are new to contribu
 
   - **React Testing Library**
     - [Robin Wieruch Tutorial](https://www.robinwieruch.de/react-testing-library/)
+    
+- ### Acceptance Testing
+  - [testautomationu](https://testautomationu.applitools.com/atdd-for-the-frontend/)
 
 ## Typescript
   - [Learn Typescript](https://learntypescript.dev/)

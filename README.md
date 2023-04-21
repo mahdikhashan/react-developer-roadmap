@@ -220,3 +220,4 @@ Before you head over, read the Contribution Guide first. You are new to contribu
   - [Artem Sapegin](https://sapegin.me/)
   - [Martin Fowler](https://martinfowler.com)
   - [Flavio Copes](https://flaviocopes.com/)
+  - [Miłosz Piechocki](https://codewithstyle.info/)
